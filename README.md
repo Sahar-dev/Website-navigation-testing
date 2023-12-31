@@ -37,7 +37,7 @@ This project aims to ensure the seamless functionality of a website's navigation
 
 3. **Run the Tests:**
    ```bash
-   robot website_navigation_tests.robot
+   robot tests/website_navigation_tests.robot
    ```
 
 ## Test Details
