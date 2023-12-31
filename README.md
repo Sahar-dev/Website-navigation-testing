@@ -17,28 +17,28 @@ This project aims to ensure the seamless functionality of a website's navigation
 ### Prerequisites
 
 - [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html): Install using:
-  \`\`\`bash
+  ```bash
   pip install robotframework-seleniumlibrary
-  \`\`\`
+  ```
 
 - [Google Chrome Driver](https://sites.google.com/chromium.org/driver/): Download and ensure the executable is in your system's PATH.
 
 ### Clone and Run
 
 1. **Clone the Repository:**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/Sahar-dev/website-navigation-tests.git
-   \`\`\`
+   ```
 
 2. **Navigate to the Project Directory:**
-   \`\`\`bash
+   ```bash
    cd website-navigation-tests
-   \`\`\`
+   ```
 
 3. **Run the Tests:**
-   \`\`\`bash
+   ```bash
    robot website_navigation_tests.robot
-   \`\`\`
+   ```
 
 ## Test Details
 
