@@ -1,6 +1,6 @@
 # Website Navigation Tests with Robot Framework
 
-Automated tests for website navigation using Robot Framework.
+![alt text](https://miro.medium.com/v2/resize:fit:553/1*wnMQPTmEsIq0TiRgfX4hig.png)
 
 ## Project Overview
 
